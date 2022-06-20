@@ -1,0 +1,5 @@
+#!/home/koalamin/1.Programming/3.NLP/SimpleChatBot/ven/bin/python
+
+if __name__ == '__main__':
+    from wapiti.script import run_script
+    run_script()
